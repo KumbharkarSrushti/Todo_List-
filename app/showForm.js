@@ -182,7 +182,7 @@ const TodoList = () => {
                   }}
                 >
                   <img
-                    src="delete-button.svg"
+                    src="/delete-button.svg"
                     alt="Delete"
                     width="20px"
                     height="20px"
